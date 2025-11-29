@@ -4,3 +4,7 @@ yellow third color
 this is fourth line
 Indigo
 Indigo
+blue
+yellow
+Violet
+red
