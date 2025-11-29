@@ -8,4 +8,8 @@ blue
 yellow
 Violet
 red
+<<<<<<< HEAD
 This is a new update
+=======
+viky is under water
+>>>>>>> 8070c4a (this is new command)
