@@ -3,4 +3,6 @@ Red is the first colour of the rainvow.
 yellow third color
 this is fourth line
 blue
+yellow
+Violet
 red
