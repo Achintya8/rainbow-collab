@@ -8,3 +8,4 @@ blue
 yellow
 Violet
 red
+This is a new update
